@@ -1,0 +1,3 @@
+function sameCase(a, b){
+
+}
